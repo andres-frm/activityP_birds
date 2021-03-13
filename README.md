@@ -7,12 +7,12 @@ This repository holds the data of **Ramírez-Mejía et al. 2021**, and contains 
 
 ## Files
 
-~.png: silhouettes of andean birds
+*~.png*: silhouettes of andean birds
 
-bird_activity_data.txt: data of bird activity records. Hour of the day is estimated as the unite.
+*bird_activity_data.txt*: data of bird activity records. Hour of the day is estimated as the unite.
 
-script_birdActivity_analysis.R: R script to produce Kernel density plots, and estimate the coefficient of activity overlap.
+*script_birdActivity_analysis.R*: R script to produce Kernel density plots, and estimate the coefficient of activity overlap.
 
-script_birdActivity_analysis.pdf: script and outputs in pdf format.
+*script_birdActivity_analysis.pdf*: script and outputs in pdf format.
 
 
